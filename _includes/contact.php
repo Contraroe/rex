@@ -10,7 +10,11 @@
             <label id="bericht" for="message">Message *</label><br />
             <textarea name="message" id="message" rows="10" cols="60" required="Message"></textarea><br />
             <input type="submit" name="send" value="Send" class="submit-button" onmouseover="this.className='btn btnsubmit'" onmouseout="this.className='submit-button'" />
-            <input type="reset" name="clear" value="Clear" class="clear-button">
+            <input type="reset" name="clear" value="Clear" class="clear-button"  onmouseover="this.className='btn btnclear'" onmouseout="this.className='clear-button'" >
+            <input id="check" type="text" name="url" value="" placeholder="leave empty">
         </form>
     </div>
 </div>
+<script type="text/javascript">
+
+</script>

@@ -1,28 +1,49 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-  <head>
-    <title>REX Panels &amp; Profiles</title>
-    <link href="css/reset.css" rel="stylesheet" type="text/css" />
-    <link href="css/templatehome.css" rel="stylesheet" type="text/css" />
-    <link href="css/form.css" rel="stylesheet" type="text/css" />
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <link rel="icon"  type="image/w-icon" href="img/Rex.ico">
-    <script>var __adobewebfontsappname__ = "code"</script>
-    <script src="http://use.edgefonts.net/fredoka-one:n4:all.js"></script>
- </head>
-  <body>
-    <?php include "includes/bg.php" ?>
-    <?php include "includes/header.php" ?>
-    <script src="js/bani.js"></script>
-    <div id="wrapper">
-        <div id="body">
-            <?php include "includes/info.php" ?>
-            <?php include "includes/contact.php" ?>
-            <?php include "includes/sales.php" ?>
-            <?php include "includes/downloads.php" ?>
-        </div><!-- END body  -->
-        <div id="bear"></div>
-    </div><!-- END wrapper    -->
-    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-  </body>
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="_css/normalize.css">
+        <link rel="stylesheet" href="_css/global.css">
+        <link rel="stylesheet" href="_css/form.css">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="_js/vendor/modernizr-2.6.2.min.js"></script>
+        <script>var __adobewebfontsappname__ = "code"</script>
+        <script src="http://use.edgefonts.net/fredoka-one:n4:all.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- Add your site or application content here -->
+        <?php include "_includes/bg.php" ?>
+        <?php include "_includes/header.php" ?>
+        <div id="wrapper">
+                <div id="body">
+                        <?php include "_includes/info.php" ?>
+                        <?php include "_includes/contact.php" ?>
+                        <?php include "_includes/sales.php" ?>
+                        <?php include "_includes/downloads.php" ?>
+                </div><!-- END body  -->
+                        <div id="bear"></div>
+        </div><!-- END wrapper    -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="_js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="_js/plugins.js"></script>
+        <script src="_js/main.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script src="_js/vendor/google.analytics.js"></script>
+    </body>
 </html>
