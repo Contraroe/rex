@@ -25,6 +25,10 @@ if(isset($_POST['url']) && $_POST['url'] == ''){
 	$mail_status = mail($host, $subject, $body, $headers);
 } 
 
+
+
+
+
 if ($mail_status) { ?>
     <script language="javascript" type="text/javascript">
         alert('Thank you for your email, we have received your message and will reply within the next few days.');
