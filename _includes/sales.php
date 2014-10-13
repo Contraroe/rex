@@ -62,9 +62,9 @@
             </div>
             <div id="co">
                 <ul id="dl">
-                    <li><b><span id="new" >Laurent Fontaine</span></b></li>
-                    <li><b><a class="sales" href="tel:0033648243347">00 33 648 24 33 47</a></b></li>
-                    <li><b><a class="sales" href="mailto:l.fontaine@rexpanelsandprofiles.com">l.fontaine@rexpanelsandprofiles.com</a></b></li>
+                    <li><b><span id="new" >Service commercial interne</span></b></li>
+                    <li><b><a class="sales" href="tel:003269446680">00 32 69 44 66 80</a></b></li>
+                    <li><b><a class="sales" href="mailto:info@rexpanelsandprofiles.com">info@rexpanelsandprofiles.com</a></b></li>
                 </ul>
             </div>
 
