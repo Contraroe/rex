@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
+        <title>Rex Panels and Profiles</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,7 +14,6 @@
 
         <link rel="stylesheet" href="_css/normalize.css">
         <link rel="stylesheet" href="_css/global.css">
-        <link rel="stylesheet" href="_css/form.css">
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="_js/vendor/modernizr-2.6.2.min.js"></script>
         <script>var __adobewebfontsappname__ = "code"</script>
@@ -40,10 +39,9 @@
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="_js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-        <script src="_js/plugins.js"></script>
-        <script src="_js/main.js"></script>
+        <script src="_js/plugins.min.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script src="_js/vendor/google.analytics.js"></script>
+        <script src="_js/vendor/google.analytics.min.js"></script>
     </body>
 </html>

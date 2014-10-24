@@ -55,9 +55,9 @@
     <div id="color"><h2>France</h2></div>
             <div id="pr">
                 <ul id="dl">
-                    <li><b><span id="new" >Pierre Ehrhardt</span></b></li>
-                    <li><b><a class="sales" href="tel:00491634047741">00 49 163 404 77 41</a></b></li>
-                    <li><b><a class="sales" href="mailto:p.ehrhardt@rexpanelsandprofiles.com">p.ehrhardt@rexpanelsandprofiles.com</a></b></li>
+                    <li><b><span id="new" >Dieter Lottin</span></b></li>
+                    <li><b><a class="sales" href="tel:0032468135068">00 32 468 13 50 68</a></b></li>
+                    <li><b><a class="sales" href="mailto:d.lottin@rexpanelsandprofiles.com">d.lottin@rexpanelsandprofiles.com</a></b></li>
                 </ul>
             </div>
             <div id="co">
